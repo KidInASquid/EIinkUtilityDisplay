@@ -3,9 +3,10 @@
 
 this project is a personal take / copy of @Ashtf 's 2025 EinkPDA, cutting a few features and adding some of my own
 
-![IMG20250114202659](https://github.com/user-attachments/assets/c39189e0-8c66-448f-a0ef-99eec2af6684)
+![P1130558](https://github.com/user-attachments/assets/791df932-b2c9-459f-9c58-0640f6f8a929)
 
-![IMG20250114202546](https://github.com/user-attachments/assets/446d8884-8f92-4619-9335-53f150a269c2)
+![P1130549](https://github.com/user-attachments/assets/870af762-9d3f-4b4d-afb1-b597d016a69a)
+
 credit ^ @Ashtf 
 
 # Project Summary
