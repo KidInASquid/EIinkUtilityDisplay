@@ -1,5 +1,6 @@
 # EinkUtilityDisplay
 [Please note that this project is a work in progress and incomplete]
+
 this project is a personal take / copy of @Ashtf 's 2025 EinkPDA, cutting a few features and adding some of my own
 
 ![IMG20250114202659](https://github.com/user-attachments/assets/c39189e0-8c66-448f-a0ef-99eec2af6684)
